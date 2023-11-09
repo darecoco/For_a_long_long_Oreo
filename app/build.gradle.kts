@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.for_a_long_long_oreo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.for_a_long_long_oreo"
