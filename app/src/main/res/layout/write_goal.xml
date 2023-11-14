@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context="com.example.for_a_long_long_oreo.write_goal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/oreo_cookie"
+        android:textSize="@dimen/small_text"
+        android:padding="@dimen/padding"
+        android:textColor="@color/white"
+        android:fontFamily="@font/dovemayo_gothic"
+        android:text="행동목표 세우기"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/write_goal"
+        android:background="@color/oreo_cream"
+        android:textSize="@dimen/middle_text"
+        android:fontFamily="@font/dovemayo_gothic"
+        android:hint="이곳에 행동목표를 적어주세요"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/oreo_cookie"
+        android:textSize="@dimen/small_text"
+        android:padding="@dimen/padding"
+        android:textColor="@color/white"
+        android:fontFamily="@font/dovemayo_gothic"
+        android:text="이번 오레오의 행동목표를 정해주세요"/>
+
+</LinearLayout>
