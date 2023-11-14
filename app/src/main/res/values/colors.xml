@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="oreo_cookie">#3D2C1C</color>
+    <color name="oreo_cream">#EEEEEE</color>
 </resources>

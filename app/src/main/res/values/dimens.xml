@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_text">20sp</dimen>
+    <dimen name="middle_text">35sp</dimen>
+    <dimen name="big_text">50sp</dimen>
+
+    <dimen name="write_goal">130sp</dimen>
+    <dimen name="padding">15dp</dimen>
+</resources>
